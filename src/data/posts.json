@@ -1,0 +1,22 @@
+[
+    {
+        "title" : "Post n1",
+        "brief" : "Resumen del post n1",
+        "body" : "Detalle del post n1"
+    },
+    {
+        "title" : "Post n2",
+        "brief" : "Resumen del post n2",
+        "body" : "Detalle del post n2"
+    },
+    {
+        "title" : "Post n3",
+        "brief" : "Resumen del post n3",
+        "body" : "Detalle del post n3"
+    },
+    {
+        "title" : "Post n4",
+        "brief" : "Resumen del post n4",
+        "body" : "Detalle del post n4"
+    }
+]
